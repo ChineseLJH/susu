@@ -5,3 +5,11 @@ __pycache__/
 .agents/
 .aws/
 .codex/
+
+# 不收录素材压缩包
+*.zip
+*.7z
+*.rar
+*.tar
+*.tar.gz
+*.tgz
